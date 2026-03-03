@@ -244,21 +244,6 @@ A Anny conta com mais de **50 modelos** de Inteligência Artificial, totalmente 
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                 🧠 MODELOS DISPONÍVEIS NA ANNY               ║
-╠══════════════════════════════════════════════════════════════╣
-║  GPT-5          │  Claude 4       │  Gemini 3               ║
-║  Kimi K2        │  Deepseek V3    │  Llama 4                ║
-║  Mistral        │  Sonar          │  Grok                   ║
-║  Qwen           │  Command R      │  Yi                     ║
-║  WizardLM       │  Falcon         │  ... e muito mais!      ║
-╚══════════════════════════════════════════════════════════════╝
-         Total: 50+ modelos • 100% gratuitos • Sem limites
-```
-
----
-
 ## ⚙️ Como Usar
 
 <div align="center">
@@ -296,8 +281,6 @@ A Anny mantém o contexto da conversa. Continue respondendo às mensagens dela p
 ```
 /configurar
 ```
-
----
 
 ### 📖 Comandos Principais
 
@@ -343,7 +326,6 @@ A Anny mantém o contexto da conversa. Continue respondendo às mensagens dela p
 
 </details>
 
----
 
 ## 🔧 Configuração
 
@@ -370,7 +352,6 @@ Você pode configurar um canal dedicado onde a Anny responde automaticamente a *
 
 Configure como a Anny se apresenta, desde o nome até o estilo de resposta, através dos comandos de personalização disponíveis.
 
----
 
 ## 🤖 Crie Sua Própria I.A
 
@@ -396,7 +377,6 @@ A Anny permite que você **crie sua própria inteligência artificial** totalmen
 │  👤 Nome único          →  Dê um nome exclusivo             │
 │  🎭 Personalidade       →  Defina como ela se comporta      │
 │  📚 Base de Conhecimento→  Alimente com informações         │
-│  🗣️ Tom de voz          →  Formal, casual, engraçado...     │
 │  🌍 Idioma padrão       →  Configure o idioma principal     │
 │  📝 Instruções próprias →  Regras e diretrizes únicas       │
 │  🎨 Estilo de resposta  →  Como ela estrutura as respostas  │
