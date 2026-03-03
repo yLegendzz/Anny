@@ -31,12 +31,11 @@
 
 <!-- TYPING SVG - ANIMADO -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=🌸+Mais+de+50+modelos+de+I.A+disponíveis!;🤖+GPT+5%2C+Claude+4%2C+Gemini+3+e+muito+mais!;🎨+Criação+e+edição+de+imagens+com+IA;✨+Totalmente+gratuita+para+todos!;🌍+Presente+em+mais+de+1.900+servidores!;💡+Crie+sua+própria+I.A+personalizada!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Mais+de+50+modelos+de+IA+disponiveis;GPT+5%2C+Claude+4%2C+Gemini+3+e+muito+mais;Criacao+e+edicao+de+imagens+com+IA;Totalmente+gratuita+para+todos;Presente+em+mais+de+1.900+servidores;Crie+sua+propria+IA+personalizada" />
 </a>
 
 </div>
 
----
 
 <div align="center">
 
@@ -46,7 +45,6 @@
 
 </div>
 
----
 
 ## 📋 Índice
 
@@ -71,7 +69,6 @@
 
 </details>
 
----
 
 ## 🌸 Sobre a Anny
 
@@ -98,7 +95,6 @@ A **Anny I.A** nasceu com um objetivo claro: **democratizar o acesso à intelig�
 | 🔄 **Real-time** | Informações atualizadas em tempo real |
 | 🛡️ **Confiável** | Presente em mais de 1.9k servidores ativos |
 
----
 
 ## ✨ Funcionalidades
 
@@ -126,7 +122,6 @@ A Anny é o hub definitivo de I.A para o Discord. Com mais de **50 modelos** dos
 
 </details>
 
----
 
 ### 🎨 Imagens com I.A
 
@@ -143,7 +138,6 @@ A Anny é o hub definitivo de I.A para o Discord. Com mais de **50 modelos** dos
 
 </details>
 
----
 
 ### 💬 Chat Inteligente
 
@@ -161,7 +155,6 @@ A Anny é o hub definitivo de I.A para o Discord. Com mais de **50 modelos** dos
 
 </details>
 
----
 
 ### 🛠️ Ferramentas de Servidor
 
