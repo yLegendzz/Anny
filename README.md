@@ -41,7 +41,7 @@
 
 ## 🌸 Bem-vindo à Anny I.A
 
-**Anny** é uma bot de Discord poderosa, focada em **Inteligência Artificial**, com mais de **50 modelos de I.A** disponíveis para uso — e completamente **gratuita**. Presente em mais de **1.900 servidores**, ela foi projetada para ser ao mesmo tempo simples de usar e incrivelmente avançada.
+**Anny** é uma bot de Discord poderosa, focada em **Inteligência Artificial**, com mais de **50 modelos de I.A** disponíveis para uso, e completamente **gratuita**. Presente em mais de **1.900 servidores**, ela foi projetada para ser ao mesmo tempo simples de usar e incrivelmente avançada.
 
 </div>
 
@@ -170,7 +170,6 @@ A Anny é o hub definitivo de I.A para o Discord. Com mais de **50 modelos** dos
 
 </details>
 
----
 
 ### 🌍 Tradução e Informações
 
@@ -187,7 +186,6 @@ A Anny é o hub definitivo de I.A para o Discord. Com mais de **50 modelos** dos
 
 </details>
 
----
 
 ### 🎉 Diversão e Utilidades
 
@@ -203,7 +201,6 @@ A Anny é o hub definitivo de I.A para o Discord. Com mais de **50 modelos** dos
 
 </details>
 
----
 
 ## 🧠 Modelos de I.A Disponíveis
 
@@ -384,8 +381,6 @@ A Anny permite que você **crie sua própria inteligência artificial** totalmen
 | 💼 **Corporativo** | Assistente formal para times de trabalho |
 | 🌐 **Comunidade** | Bot com a identidade e cultura da sua comunidade |
 
----
-
 ## 📊 Estatísticas
 
 <div align="center">
@@ -423,7 +418,6 @@ A Anny permite que você **crie sua própria inteligência artificial** totalmen
 
 </div>
 
----
 
 ## 🔗 Links Úteis
 
@@ -471,7 +465,6 @@ A Anny permite que você **crie sua própria inteligência artificial** totalmen
 
 </div>
 
----
 
 ## 👩‍💻 Desenvolvedor
 
@@ -498,7 +491,6 @@ A Anny foi criada com 💜 por:
 
 </div>
 
----
 
 ## 🤝 Contribuindo
 
@@ -510,13 +502,10 @@ Quer ajudar a Anny a crescer? Existem várias formas de contribuir:
 - 📣 **Divulgue** a Anny para outros servidores
 - 💜 **Apoie o projeto** e o desenvolvedor
 
----
 
 ## 📜 Licença e Termos
 
 A Anny I.A é um serviço proprietário desenvolvido por `@jaya.l`. Ao utilizar a Anny, você concorda com os termos de uso disponíveis no [website oficial](https://anny-ia.netlify.app).
-
----
 
 <div align="center">
 
@@ -528,6 +517,6 @@ A Anny I.A é um serviço proprietário desenvolvido por `@jaya.l`. Ao utilizar 
 
 <br/>
 
-*Anny I.A — Inteligência Artificial no Discord, para todos, gratuitamente.* 🌸
+*Anny I.A - Inteligência Artificial no Discord, para todos, gratuitamente.* 🌸
 
 </div>
