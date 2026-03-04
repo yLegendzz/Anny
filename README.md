@@ -149,7 +149,7 @@ A Anny é o hub definitivo de I.A para o Discord. Com mais de **50 modelos** dos
 - 🤖 **Chat automático** — Configure um canal específico onde a Anny responde automaticamente a todas as mensagens
 - 🔔 **Ativação por menção** — Mencione a `@Anny` em qualquer canal para iniciar uma conversa
 - 💾 **Memória de contexto** — A Anny mantém o contexto da conversa para respostas mais coerentes
-- 🌍 **Idioma configurável** — Use `/configurar` para definir o idioma da conversa
+- 🌍 **Idioma configurável** — Use `/configurar usuario` para definir o idioma da conversa
 - 🎭 **Personalidade customizável** — Configure a personalidade da I.A para o seu servidor
 - 🔄 **Continuação de threads** — Responda diretamente às mensagens da Anny para continuar o fio da conversa
 
@@ -163,12 +163,10 @@ A Anny é o hub definitivo de I.A para o Discord. Com mais de **50 modelos** dos
 
 <br/>
 
-- 🎉 **Sorteios automáticos** — Crie sorteios personalizados com duração, número de ganhadores e prêmio configuráveis
-- 📌 **Mensagens fixadas** — Gerencie e crie mensagens fixadas de forma elegante
+- 🎉 **Sorteios automáticos** — Crie sorteios personalizados e automáticos com duração, número de ganhadores e prêmio configuráveis
 - 📋 **Criação de Embeds** — Monte embeds ricos e personalizados com título, descrição, cor, imagens e rodapé
-- 📢 **Anúncios formatados** — Envie anúncios estilizados para seus membros
-- 🗓️ **Eventos** — Crie e gerencie eventos no servidor
-- 🔧 **Automações** — Configure comportamentos automáticos para o servidor
+- 📢 **Anúncios formatados** — Envie anúncios estilizados para seus membros em embeds completamente configuráveis
+- 🔧 **Grandes configurações** — Configure a Anny completamente para se adaptar ao seu servidor
 
 </details>
 
@@ -181,7 +179,7 @@ A Anny é o hub definitivo de I.A para o Discord. Com mais de **50 modelos** dos
 
 <br/>
 
-- 🌍 **Tradução avançada** — Traduza textos entre dezenas de idiomas com qualidade superior
+- 🌍 **Tradução avançada** — Traduza textos entre centenas de idiomas com qualidade superior
 - 📰 **Notícias em real-time** — Acesse informações e notícias atualizadas diretamente no Discord
 - 🔎 **Pesquisa inteligente** — Pesquise informações na web usando linguagem natural
 - 📊 **Dados ao vivo** — Cotações, clima, eventos e muito mais em tempo real
@@ -201,8 +199,7 @@ A Anny é o hub definitivo de I.A para o Discord. Com mais de **50 modelos** dos
 - 📥 **Download de conteúdos** — Baixe vídeos, músicas e outros conteúdos diretamente pelo Discord
 - 🎲 **Jogos e diversão** — Entretenha os membros do servidor com funcionalidades lúdicas
 - 🤣 **Humor e piadas** — Peça piadas, memes e conteúdo engraçado à Anny
-- 📷 **Processamento de mídia** — Trabalhe com imagens, vídeos e outros tipos de mídia
-- 🎵 **Conteúdo de áudio** — Interaja com conteúdos de áudio de forma inteligente
+- 📷 **Processamento de mídia** — Trabalhe com imagens em criação, análise edição
 
 </details>
 
