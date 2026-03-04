@@ -278,7 +278,7 @@ A Anny mantém o contexto da conversa. Continue respondendo às mensagens dela p
 ### 📖 Comandos Principais
 
 <details>
-<summary><b>📋 Ver lista completa de comandos</b></summary>
+<summary><b>📋 Ver lista de comandos mais comuns</b></summary>
 
 <br/>
 
@@ -287,35 +287,33 @@ A Anny mantém o contexto da conversa. Continue respondendo às mensagens dela p
 | Comando | Descrição |
 |---|---|
 | `@Anny [mensagem]` | Inicia ou continua uma conversa com a I.A |
-| `/modelo` | Altera o modelo de I.A atual |
-| `/configurar` | Configura idioma e preferências da conversa |
-| `/limpar` | Limpa o histórico de conversa atual |
-| `/personalidade` | Configura a personalidade da I.A |
+| `/chat` | Inicie um chat profissional para suporte e assistência |
+| `/configurar usuario/anny` | Configura idioma e preferências da conversa, como personalidade, modelo e perfil da Anny |
+| `/chatreset` | Limpa o histórico de conversa atual |
 
 #### 🎨 Comandos de Imagem
 
 | Comando | Descrição |
 |---|---|
-| `/imagine [descrição]` | Gera uma imagem com I.A a partir de um texto |
-| `/analisar [imagem]` | Analisa e descreve uma imagem |
-| `/editar [imagem]` | Edita uma imagem usando I.A |
+| `/imagem gerar [descrição]` | Gera uma imagem com I.A a partir de um texto |
+| `/imagem upscale [imagem]` | Edita uma imagem para uma versão com maior qualidade |
 
 #### 🛠️ Comandos de Servidor
 
 | Comando | Descrição |
 |---|---|
-| `/sorteio` | Cria um sorteio automático no servidor |
-| `/embed` | Cria uma mensagem embed personalizada |
-| `/fixar` | Gerencia mensagens fixadas |
-| `/anuncio` | Envia um anúncio formatado |
+| `/sorteio cria` | Cria um sorteio único ou automático no servidor |
+| `/embed criar/clonar/editar` | Cria uma mensagem embed personalizada, pode copiar ou editar outras embeds |
+| `/limpar` | Limpe mensagens de um canal com vários filtros |
 
 #### 🌍 Comandos Utilitários
 
 | Comando | Descrição |
 |---|---|
-| `/traduzir [texto]` | Traduz um texto para outro idioma |
-| `/download [url]` | Faz download de conteúdo de uma URL |
-| `/info` | Exibe informações gerais sobre a Anny |
+| `/traduzir [texto] <idiomas>` | Traduz um texto para outros idiomas |
+| `/download tiktok/youtube/instagram/... [url]` | Faz download de conteúdo de uma URL |
+| `/analisar texto` | Faz uma análise completa de uma mensagem |
+| `/botinfo` | Exibe informações gerais sobre a Anny |
 
 </details>
 
